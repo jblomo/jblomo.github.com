@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Let us speak of clouds, shall we?]]></title>
+  <link href="http://jblomo.github.com/atom.xml" rel="self"/>
+  <link href="http://jblomo.github.com/"/>
+  <updated>2011-11-27T23:30:25-08:00</updated>
+  <id>http://jblomo.github.com/</id>
+  <author>
+    <name><![CDATA[Jim Blomo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://jblomo.github.com/blog/2011/11/27/first-post/"/>
+    <updated>2011-11-27T22:55:00-08:00</updated>
+    <id>http://jblomo.github.com/blog/2011/11/27/first-post</id>
+    <content type="html"><![CDATA[<p><a href="http://www.penny-arcade.com/comic/2006/08/02"><img src="http://art.penny-arcade.com/photos/i-JqRZtv3/0/O/i-JqRZtv3.jpg" alt="Twisp &amp; Catsby In:&nbsp; The Land Of Upp" />PennyArcade</a></p>
+]]></content>
+  </entry>
+  
+</feed>
